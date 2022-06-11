@@ -6,7 +6,7 @@ This page was built with
 - CSS.
 
 ## Screenshot of the page
-(./Assets/Screenshot-Horiseon.JPG)
+! [Horiseon webpage screenshot] (./Assets/Screenshot-Horiseon.JPG)
 
 
 ## Changes I have made
