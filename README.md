@@ -25,5 +25,5 @@ This page was built with
 2. Combine and rename classes to make style-sheet more concise
 
 ## Links
-Deployment link: https://henniepenny.github.io/01_code-refactor-html/
-Repository link: https://github.com/HenniePenny/01_code-refactor-html
+- Deployment link: https://henniepenny.github.io/01_code-refactor-html/
+- Repository link: https://github.com/HenniePenny/01_code-refactor-html
