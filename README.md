@@ -22,4 +22,8 @@ This page was built with
 
 ### CSS
 1. Add comments for structure
-2. Combine and rename classes to make sheet more concise
+2. Combine and rename classes to make style-sheet more concise
+
+## Links
+Deployment link: https://henniepenny.github.io/01_code-refactor-html/
+Repository link: https://github.com/HenniePenny/01_code-refactor-html

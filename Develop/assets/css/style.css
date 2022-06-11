@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* styles various header elements */
+/* styles for various header elements */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -58,7 +58,7 @@ a {
     background-position: center;
 }
 
-/* following classes style main elements of page */
+/* following classes and ids style main elements of page */
 p {
     font-size: 16px;
 }
