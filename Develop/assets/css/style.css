@@ -79,6 +79,31 @@ p {
     color: #ffffff;
 }
 
+/*create ids for links from header to "content-boxes" on page*/
+#box-seo{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+#box-orm{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+#box-smm{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
